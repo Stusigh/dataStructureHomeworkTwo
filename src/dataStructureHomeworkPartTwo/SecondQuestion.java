@@ -1,7 +1,7 @@
 package dataStructureHomeworkPartTwo;
 
-public class QuestionTwo {
-    public static void codeGiven() {
+public class SecondQuestion {
+    public static void exampleCodeGiven() {
         double[ ] exampleArray = {1,5,6,5,4,1};         // Creates an array
         double maximum = exampleArray[0];               // Sets variable 'maximum' as the first index of exampleArray (1)
         int index = 0;                                  // Sets variable 'index' as 0

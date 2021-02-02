@@ -1,6 +1,6 @@
 package dataStructureHomeworkPartTwo;
 
-public class QuestionThree {
+public class ThirdQuestion {
     public static int[] toPower(Integer size, Integer power) {
         int[] returnArray = new int[size];
 
@@ -12,8 +12,5 @@ public class QuestionThree {
             returnArray[i] = newNumber;
         }
         return returnArray;
-
-
-
     }
 }
